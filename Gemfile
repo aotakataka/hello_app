@@ -21,7 +21,7 @@ group :development, :test do
 end
 
 group :development do
-  gem "web-console",         "4.2.0"
+  gem "web-console",         "4.2.1"
   gem "solargraph",          "0.53.4"
   gem "irb",                 "1.13.0"
   gem "repl_type_completor", "0.1.8"

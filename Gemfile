@@ -9,7 +9,7 @@ gem "sprockets-rails", "3.4.2"
 gem "importmap-rails", "1.1.5"
 gem "turbo-rails",     "1.4.0"
 gem "stimulus-rails",  "1.2.1"
-gem "jbuilder",        "2.11.5"
+gem "jbuilder",        "2.13.0"
 gem "puma",            "6.6.0"
 gem "bootsnap",        "1.16.0", require: false
 gem "sqlite3",         "1.6.1"
